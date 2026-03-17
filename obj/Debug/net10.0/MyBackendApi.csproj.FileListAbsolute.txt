@@ -32,3 +32,4 @@
 /Users/sakinahothman/MyBackendApi/obj/Debug/net10.0/MyBackendApi.genruntimeconfig.cache
 /Users/sakinahothman/MyBackendApi/obj/Debug/net10.0/ref/MyBackendApi.dll
 /Users/sakinahothman/MyBackendApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sakinahothman/MyBackendApi/obj/Debug/net10.0/MyBackendApi.sourcelink.json
